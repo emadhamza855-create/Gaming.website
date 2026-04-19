@@ -215,7 +215,7 @@ div.testy div.woman {
 }
 
 .joinform .image {
-    background-image: url('.jpg');
+    background-image: url('sea.jpg');
     background-size: cover;
     background-position: top;
     height: 400px;
