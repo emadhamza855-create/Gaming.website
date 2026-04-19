@@ -1,0 +1,50 @@
+<div class="pricing">
+    <h2>Our pricing plans</h2>
+    
+    <div class="prices">
+        <div class="price">
+            <h4>Standard plan</h4>
+            <div class="planprice">
+                <h3>39 LE</h3>
+                <p>per month</p>
+            </div>
+            <div class="plandetails">
+                <p>giga download</p>
+                <p>2 games</p>
+                <p>online</p>
+            </div>
+            <button>Buy plan now</button>
+        </div>
+
+        <div class="price">
+            <h4>Golden plan</h4>
+            <div class="planprice">
+                <h3>49 LE</h3>
+                <p>per month</p>
+            </div>
+            <div class="plandetails">
+                <p>giga download</p>
+                <p>5 games</p>
+                <p>online</p>
+            </div>
+            <button>Buy plan now</button>
+        </div>
+
+        <div class="price">
+            <h4>Platinum plan</h4>
+            <div class="planprice">
+                <h3>89 LE</h3>
+                <p>per month</p>
+            </div>
+            <div class="plandetails">
+                <p>unlimited download</p>
+                <p>20 games</p>
+                <p>online</p>
+            </div>
+            <button>Buy plan now</button>
+        </div>
+    </div> </div> 
+
+ <div class="footer">
+    This website is created by HAMZA EMAD
+</div>
